@@ -16,8 +16,6 @@
 
 package jahirfiquitiva.walls.frames;
 
-import jahirfiquitiva.libs.frames.utils.NotificationUtils;
-
 // TODO: Remove /* */ Comment marks to enable
 public class FirebaseService { /* extends FirebaseMessagingService {
 

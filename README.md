@@ -7,8 +7,10 @@
 <h4 align="center">A full-of-features, easy-to-customize, free and open source, light-weight, Material Design dashboard to create Android Wallpapers apps with almost-null effort.</h4>
 
 <p align="center">
-	<a target="_blank" href="https://jitpack.io/#jahirfiquitiva/Frames/"><img src="https://img.shields.io/badge/JitPack-1.4.1-00C853.svg"></a>
+	<a target="_blank" href="https://jitpack.io/#jahirfiquitiva/Frames/"><img src="https://img.shields.io/badge/JitPack-1.5.0-00C853.svg"></a>
 	<a target="_blank" href="http://creativecommons.org/licenses/by-sa/4.0/legalcode"><img src="https://img.shields.io/badge/License-CC%20BY%20SA-01579B.svg"></a>
+	<a href="https://www.codacy.com/app/jahirfiquitiva/Frames-Sample?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jahirfiquitiva/Frames-Sample&amp;utm_campaign=Badge_Grade"><img src="https://api.codacy.com/project/badge/Grade/a1fc84e3c4964779a9678aa5bd7236df"/></a>
+	<a target="_blank" href="https://travis-ci.org/jahirfiquitiva/Frames-Sample/builds" title="Travis Builds"><img src="https://travis-ci.org/jahirfiquitiva/Frames-Sample.svg?branch=master" /></a>
 	<img src="https://img.shields.io/badge/API-16%2B-7ac143.svg"/>
 	<a target="_blank" href="https://github.com/jahirfiquitiva/Frames-Sample" title="Sample App"><img src="https://img.shields.io/badge/SAMPLE-APP-34bf49.svg" /></a>
 </p>
